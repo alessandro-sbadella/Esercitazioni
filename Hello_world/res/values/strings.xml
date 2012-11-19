@@ -1,0 +1,10 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Hello world</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_helloworld">Hello_world</string>
+    <string name="testo">La donzelletta vien dalla campagna in sul calar del sole e reca in mano un mazzolin di rose e di viole. </string>
+    <color name="Colore_testo">#0033FF</color>
+    <string name="titolo">Sabato del villaggio</string>
+    
+</resources>
