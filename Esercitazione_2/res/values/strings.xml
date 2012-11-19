@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Esercitazione_2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_primo_articolo">Primo_articolo</string>
+    <string name="Descrizione_articolo_1">Alle ore 19:09 UTC del 14 Ottobre 2012, nei pressi della ben nota località dello stato del New Messico, Roswell, il paracadutista e base jumper (sebbene sia difficile definirlo univocamente) austriaco Felix Bumgartner si è lanciato da una quota pari a 39.068m, ovvero dalla stratosfera, atterrando in sicurezza dopo circa 8 minuti dal lancio, dei quali 4:19 minuti trascorsi in caduta libera. Proprio la necessità di decelerare rapidamente al rientro dallo spazio ha influenzato la forma tozza del muso dello Shuttle e di tutte le capsule utilizzate per il rientro degli astronauti dalle missioni spaziali. Ritornando al lancio di Baumgartner, e sorvolando su tutto l’aspetto mediatico...</string>
+    <string name="title_activity_secondo_articolo">Secondo_articolo</string>
+    <string name="Descrizione_articolo_2">Senza essere necessariamente appassionati di fantascienza, è nota ai più l’immagine della navicella spaziale delle forze del bene che s’approccia al malvagio vettore alieno ed emette un raggio luminoso che fa istantaneamente esplodere il nemico in mille pezzi e mill’altri colori. Fantascienza? O solo scienza?La risposta, ora come ora, è “entrambe”: la ricerca in campo militare, si sa, non manca mai di suscitare il dovuto interesse nei finanziatori, ed il lavoro per lo sviluppo di armi il cui funzionamento sia basato direttamente sui laser è più che mai vivo.L’idea sottostante questa “nuova” tipologia di oggetto offensivo è quella di colpire (e distruggere) il bersaglio con un treno di impulsi elettromagnetici sufficientemente...</string>
+    <string name="title_activity_terzo_articolo">Terzo_articolo</string>
+    <string name="Descrizione_articolo_3">Nei giorni scorsi vari media hanno riportato, con toni abbastanza ricchi di enfasi, una notizia riguardante un processo, messo a punto da una azienda inglese, che permette di produrre combustibile dall’aria, o meglio, dalla CO2 in essa presente.Disponendo di carbonio ed idrogeno, sotto opportune condizioni termochimiche, è possibile creare delle molecole di idrocarburi adatte ai vari impieghi, trattandosi in tutto e per tutto delle stesse componenti principali dei combustibili liquidi e gassosi che quotidianamente utilizziamo, ma la difficoltà di questo processo nel complesso è fondamentalmente la disponibilità delle materie prime, infatti se il carbonio elementare non è disponibile in natura, quantomeno...</string>
+    <string name="title_activity_quarto_articolo">Quarto_articolo</string>
+    <string name="Descrizione_articolo_4">﻿Come forse saprete alcune cose sono stanno cambiando in casa Canonical. Fino alla versione 10.10 Ubuntu è stata fermamente ancorata al progetto Gnome limitandosi a smussarne qualche aspetto, personalizzarne alcune componenti, e proporre software alternativi a quelli forniti di default dell’ambiente desktop (penso a firefox al posto di epiphany). Con l’avvicinamento della terza versione e con i suoi cambiamenti radicali Canonical ha però deciso di divergere dalla linea del progetto gnome. Non si tratta ovviamente di un abbandono delle tecnologie che da anni sono alla base del desktop Ubuntu ma del tentativo di progettare una user experience “in casa”. Il tassello centrale è rappresentato dalla nuova desktop...</string>
+
+    <color name="Blu">#0033FF</color>
+    <color name="Rosso">#FF0000</color>
+    <color name="Verde">#33CC00</color>
+    <color name="Nero">#000000</color>
+    <color name="Bianco">#CCCCCC</color>
+    <color name="Giallo">#FFFF00</color>
+
+</resources>
